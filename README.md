@@ -5,7 +5,7 @@ The tool should be run inside a particular folder, making sure that no file is e
 #### Base assumptions:
 We assumed that the folder will only find text files (.txt) containing ascii characters.
 
-We have assumed that encryption for the umba is necessarily done on all the folder files together, or on an entire file necessarily. 
+We assumed that encryption does not necessarily occur on all folder files together, or on an entire file
 
 In addition, encryption is not, Necessarily, the content of the file becomes "gibberish".
 

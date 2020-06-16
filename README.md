@@ -15,3 +15,6 @@ for learn more: https://pypi.org/project/watchdog/ , https://github.com/gorakhar
 
 ##### enchant:
 for learn more: https://pypi.org/project/pyenchant/
+
+#### How to compile in linux:
+python3 detectionRansomAttack.py

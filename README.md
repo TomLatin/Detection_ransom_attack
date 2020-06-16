@@ -10,5 +10,8 @@ We have assumed that encryption for the umba is necessarily done on all the fold
 In addition, encryption is not, Necessarily, the content of the file becomes "gibberish".
 
 #### Open source we used in our project:
-watchdog:
+##### watchdog:
 for learn more: https://pypi.org/project/watchdog/
+
+##### enchant:
+for learn more: https://pypi.org/project/pyenchant/
